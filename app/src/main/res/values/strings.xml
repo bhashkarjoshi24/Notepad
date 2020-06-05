@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bhashkar Codelab Project</string>
+    <string name="empty_notes">Once you add some notes\nyou will find it here</string>
+    <string name="enter_category">Enter category"</string>
+    <string name="enter_note">Enter note"</string>
+    <string name="welcome_to_my_notes"><u> Welcome to my notes </u> </string>
+    <string name="please_enter_notes">Please enter notes</string>
+    <string name="please_enter_category">Please enter category</string>
+    <string name="edit_notes">Edit notes</string>
+    <string name="created_date">Note create date: </string>
+</resources>
