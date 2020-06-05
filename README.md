@@ -5,9 +5,9 @@ Proudly 💪 made in Kotlin
 
 Features:
 
-###Add Note
-###Delete Note
-###Edit Note
+Add Note     
+Delete Note    
+Edit Note
 
 
 Added Some screens here.
