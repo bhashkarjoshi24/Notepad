@@ -1,43 +1,53 @@
-# My-Notes
+# Notes
 
-## My Notes for Google Kotlin "30 Days Of Kotlin with Google Developers Project Submission"
+## This project titled "Notes" is a part of  "30 Days Of Kotlin with Google Developers Project Submission". 
+You can add ,📝 edit and ❌ delete notes too
+Proudly 💪 made in Kotlin
+
+Features:
+
+Add Note
+Delete Note
+Edit Note
+
 
 Added Some screens here.
 
-![](https://github.com/pawankv89/My-Notes/blob/master/images/screen_1.png)
-![](https://github.com/pawankv89/My-Notes/blob/master/images/screen_2.png)
-![](https://github.com/pawankv89/My-Notes/blob/master/images/screen_3.png)
-![](https://github.com/pawankv89/My-Notes/blob/master/images/screen_4.png)
-![](https://github.com/pawankv89/My-Notes/blob/master/images/screen_5.png)
-![](https://github.com/pawankv89/My-Notes/blob/master/images/screen_6.png)
+![](https://github.com/bhashkarjoshi24/Notes/blob/master/images/1.png)
+![](https://github.com/bhashkarjoshi24/Notes/blob/master/images/2.png)
+![](https://github.com/bhashkarjoshi24/Notes/blob/master/images/3.png)
+![](https://github.com/bhashkarjoshi24/Notes/blob/master/images/4.png)
+
 
 
 ## Covered topics
 
-### Room DB
+### Build your first app
+### Layouts (Using constraint layout)
+### Android Architecture Components (ViewModel,LiveData)
+### Room database
 ### RecyclerView
-### Navigation
-### Google FloatingActionButton
-### Add Note
-### Share Note
-### Delete Note
-### Open Source Code on Browser
+### Designing for everyone
 
 
-## Requirements
+
+
 
 ### Build
 
-Android Studio 4.0
-Build #AI-193.6911.18.40.6514223, built on May 20, 2020
-Runtime version: 1.8.0_242-release-1644-b3-6222593 x86_64
+Android Studio 3.6.1
+Build #AI-192.7142.36.36.6241897, built on February 27, 2020
+Runtime version: 1.8.0_212-release-1586-b04 amd64
 VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o
-macOS 10.15.1
+Windows 10 10.0
 GC: ParNew, ConcurrentMarkSweep
-Memory: 1246M
-Cores: 4
-Registry: ide.new.welcome.screen.force=true
-Non-Bundled Plugins: 
+Memory: 1237M
+Cores: 8
+
+
+
+##Credits
+https://github.com/intuit/sdp     //An Android SDK that provides a new size unit - sdp (scalable dp). This size unit scales with the screen size.
 
 ## License
 
