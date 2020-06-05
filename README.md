@@ -13,10 +13,10 @@ Edit Note
 
 Added Some screens here.
 
-![](https://github.com/bhashkarjoshi24/Notes/blob/master/images/1.png)
-![](https://github.com/bhashkarjoshi24/Notes/blob/master/images/2.png)
-![](https://github.com/bhashkarjoshi24/Notes/blob/master/images/3.png)
-![](https://github.com/bhashkarjoshi24/Notes/blob/master/images/4.png)
+![](https://github.com/bhashkarjoshi24/Notepad/blob/master/images/1.png)
+![](https://github.com/bhashkarjoshi24/Notepad/blob/master/images/2.png)
+![](https://github.com/bhashkarjoshi24/Notepad/blob/master/images/3.png)
+![](https://github.com/bhashkarjoshi24/Notepad/blob/master/images/4.png)
 
 
 
