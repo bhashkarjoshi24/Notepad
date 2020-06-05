@@ -45,7 +45,7 @@ Cores: 8
 
 
 
-##Credits
+### Credits
 https://github.com/intuit/sdp     //An Android SDK that provides a new size unit - sdp (scalable dp). This size unit scales with the screen size.
 
 ## License
