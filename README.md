@@ -1,14 +1,13 @@
 # Notes
 
-## This project titled "Notes" is a part of  "30 Days Of Kotlin with Google Developers Project Submission". 
-You can add ,📝 edit and ❌ delete notes too
-##Proudly 💪 made in Kotlin
+## This project titled "Notes" is a part of  "30 Days Of Kotlin with Google Developers Project Submission". You can add ,📝 edit and ❌ delete notes too
+Proudly 💪 made in Kotlin
 
-##Features:
+Features:
 
-##Add Note
-##Delete Note
-##Edit Note
+###Add Note
+###Delete Note
+###Edit Note
 
 
 Added Some screens here.
